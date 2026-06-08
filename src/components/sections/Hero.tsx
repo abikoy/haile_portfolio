@@ -61,7 +61,7 @@ export default function Hero() {
             </div>
 
             <h1 className="font-display font-black text-5xl md:text-6xl lg:text-7xl tracking-tighter leading-[0.95] mb-6">
-              Hi, I'm{' '}
+              Hi, I&apos;m{' '}
               <span className="text-gradient block mt-1">Haile Kinfu</span>
             </h1>
 

@@ -9,7 +9,7 @@ export async function POST(req: Request) {
   try {
     await resend.emails.send({
       from: 'noreply@hailekinfu.com',  // Change to your verified domain, or use 'contact@yourdomain.com'
-      to: 'hailekinf00u@gmail.com',   // ← your inbox
+      to: 'hailekinfu00@gmail.com',   // ← your inbox
       subject: `Portfolio: ${subject}`,
       html: `
         <h2>New message from your portfolio</h2>

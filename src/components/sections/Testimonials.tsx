@@ -36,7 +36,7 @@ export default function Testimonials() {
               </div>
 
               {/* Big quote mark */}
-              <div className="font-display font-black text-5xl text-brand-500/20 leading-none mb-2 select-none">"</div>
+              <div className="font-display font-black text-5xl text-brand-500/20 leading-none mb-2 select-none">&quot;</div>
 
               <p className="text-ink-300 text-sm leading-relaxed italic flex-1 mb-6">
                 {t.text}

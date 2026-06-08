@@ -58,7 +58,7 @@ export default function Contact() {
         >
           <p className="section-tag">Contact</p>
           <h2 className="section-title">
-            Let's <span className="text-gradient">Work Together</span>
+            Let&apos;s <span className="text-gradient">Work Together</span>
           </h2>
         </motion.div>
 
@@ -71,8 +71,8 @@ export default function Contact() {
             viewport={{ once: true }}
           >
             <p className="text-ink-400 leading-relaxed mb-8 text-[15px]">
-              Ready to bring your next project to life? I'm available for freelance work,
-              full-time opportunities, and exciting collaborations. Let's build something great together.
+              Ready to bring your next project to life? I&apos;m available for freelance work,
+              full-time opportunities, and exciting collaborations. Let&apos;s build something great together.
             </p>
 
             <div className="space-y-3 mb-10">
