@@ -27,7 +27,7 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-ink-400 leading-relaxed text-[15px]">
               <p>
-                I'm a Software Engineer specializing in <span className="text-brand-300 font-medium">Full-Stack Web Development</span> and{' '}
+                I&apos;m a Software Engineer specializing in <span className="text-brand-300 font-medium">Full-Stack Web Development</span> and{' '}
                 <span className="text-brand-300 font-medium">Mobile Application Development</span>. I craft scalable web applications,
                 business management systems, educational platforms, and delivery applications.
               </p>

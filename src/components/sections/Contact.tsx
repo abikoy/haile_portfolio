@@ -127,7 +127,7 @@ export default function Contact() {
               <div className="flex flex-col items-center justify-center gap-4 py-12 text-center">
                 <CheckCircle2 size={48} className="text-brand-400" />
                 <h3 className="font-display font-bold text-xl text-white">Message Sent!</h3>
-                <p className="text-ink-400 text-sm">Thanks for reaching out. I'll get back to you within 24 hours.</p>
+                <p className="text-ink-400 text-sm">Thanks for reaching out. I&apos;ll get back to you within 24 hours.</p>
                 <button onClick={() => setSent(false)} className="btn-outline text-sm mt-2">
                   Send Another
                 </button>
