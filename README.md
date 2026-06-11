@@ -89,21 +89,7 @@ To update contact email, edit `src/components/sections/Contact.tsx`.
 
 To add your CV file, drop `cv.pdf` into the `public/` folder. The Download CV button already points to `/cv.pdf`.
 
-## 🌐 Deploy to Vercel (recommended)
 
-1. Push this project to a GitHub repository
-2. Go to [vercel.com](https://vercel.com) → **New Project**
-3. Import your GitHub repo
-4. Framework preset: **Next.js** (auto-detected)
-5. Click **Deploy** — done in ~60 seconds
-
-Or via CLI:
-```bash
-npm i -g vercel
-vercel
-```
-
-## 📦 GitHub Projects
 
 
 
